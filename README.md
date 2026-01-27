@@ -13,6 +13,14 @@ Built with ❤️ by **Shubham Mahadik (SDM Coder)**
 
 </div>
 
+--- 
+## 🚀 Live Demo
+
+👉 Click here to view the live app:  
+https://student-performance-analysis-mub5hhjtn7faagkqcxjham.streamlit.app/
+
+
+
 ---
 
 ## ✨ Project Overview
