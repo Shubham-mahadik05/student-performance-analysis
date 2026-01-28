@@ -17,7 +17,7 @@ Built with ❤️ by **Shubham Mahadik (SDM Coder)**
 ## 🚀 Live Demo
 
 👉 Click here to view the live app:  
-https://student-performance-analysis-mub5hhjtn7faagkqcxjham.streamlit.app/
+https://student-performance-analysis-ksx7byxqzhxfvkmdghgfqs.streamlit.app/
 
 
 
